@@ -1,0 +1,15 @@
+transformers==4.37.2
+numpy 
+torch
+torchvision
+decord
+Pillow
+pydantic 
+einops
+timm
+packaging 
+wheel
+accelerate
+sentencepiece
+uvicorn
+fastapi
